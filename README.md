@@ -18,3 +18,10 @@ Is there a difference in means of price between Toyota car models?
 
 **Independent Variable**: Car Models.
 **Dependent Variable**: Price.
+
+**Null Hypothesis**
+There is no difference in the mean of price between Toyota car models
+
+**Alternative Hypothesis**
+
+There is a difference in the mean of price between toyota car models
