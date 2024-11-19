@@ -23,5 +23,4 @@ Is there a difference in means of price between Toyota car models?
 There is no difference in the mean of price between Toyota car models
 
 **Alternative Hypothesis**
-
 There is a difference in the mean of price between toyota car models
