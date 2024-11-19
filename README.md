@@ -14,7 +14,7 @@ Members:
 
 ## Research Question
 
-Is there a significant difference in means in the average tax of used Toyota Cars in the UK with different mileage values?
+Is there a difference in means of price between Toyota car models?
 
-**Independent Variable**: Mileage.
-**Dependent Variable**: Tax.
+**Independent Variable**: Car Models.
+**Dependent Variable**: Price.
