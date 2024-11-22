@@ -14,13 +14,13 @@ Members:
 
 ## Research Question
 
-Is there a difference in means of price between Toyota car models?
+Is there a correlation between the mileage and the tax of used Toyota cars sold in the UK between the year 1997 and 2020?
 
-**Independent Variable**: Car Models.
-**Dependent Variable**: Price.
+**Independent Variable**: tax.
+**Dependent Variable**: mileage.
 
 **Null Hypothesis**
-There is no difference in the mean of price between Toyota car models
+There is no correlation between the mileage and the tax of used Toyota cars sold in the UK between the year 1997 and 2020
 
 **Alternative Hypothesis**
-There is a difference in the mean of price between toyota car models
+There is correlation between the mileage and the tax of used Toyota cars sold in the UK between the year 1997 and 2020
