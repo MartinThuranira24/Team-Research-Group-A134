@@ -14,13 +14,12 @@ Members:
 
 ## Research Question
 
-Is there a correlation between the mileage and the road tax of used Toyota cars sold in the UK between the year 1997 and 2020?
+Is there a correlation between the road tax and the mileage of used Toyota cars sold in the UK between the year 2010 and 2020?
 
-**Independent Variable**: road tax.
-**Dependent Variable**: mileage.
+**Independent Variable**: Mileage.
 
-**Null Hypothesis**
-There is no correlation between the mileage and the road tax of used Toyota cars sold in the UK between the year 1997 and 2020
+**Dependent Variable**: Road Tax (£).
 
-**Alternative Hypothesis**
-There is correlation between the mileage and the road tax of used Toyota cars sold in the UK between the year 1997 and 2020
+**Null Hypothesis**: There is no correlation between the road tax and the mileage of used Toyota cars sold in the UK between the year 2010 and 2020.
+
+**Alternative Hypothesis**: There is a correlation between the road tax and the mileage of used Toyota cars sold in the UK between the year 2010 and 2020.
