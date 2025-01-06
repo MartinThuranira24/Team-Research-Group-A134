@@ -1,0 +1,83 @@
+
+University Of Hertfordshire
+
+School Of Physics Engineering
+And
+Computer Science
+
+
+7COM1079-0901-2024 - Team Research and Development Project
+
+
+Research Question 
+Is there a correlation between the road tax and the mileage of used Toyota cars sold in the UK between the year 2010 and year 2020?
+
+
+Group ID: A134
+Dataset Number: DS138
+Prepared by:  	23068822 		Laban 	Mahihu
+		23026708 		Isaac 	Ngulat
+			23099101 		Martin Thuranira
+			23080370		Emmanuel Chinedu Michael
+			23004860 		Onatemowo Oluwadamilare Temidayo
+
+
+
+Table of Contents
+
+1. Introduction   
+1 Problem statement and research motivation 
+1.2 The data set 
+1.3 Research question  
+1.4 Null hypothesis and alternative hypothesis 
+2. Background research   
+2.1 Research papers (>3 relevant to your topic /DS)
+2.2 Why RQ is of interest (research gap) 
+Visualization  
+3.1 Appropriate plot for the RQ output of an R script (NOT a screenshot)  
+3.2  Additional info to understand the data (optional) 
+4. Analysis 
+4.1 Statistical test used to test the hypotheses and output 
+4.2 The null hypothesis rejected /not rejected
+Evaluation – group’s experience at 7COM1079 
+5.1 What went well 
+5.2 Points for improvement 
+5.3 Group’s time management 
+5.4 Project’s overall judgement 
+5 Comment on GitHub log output 
+  
+Conclusions 
+6.1 Results explained.  
+6.2 Interpretation of the results  
+6.3 Future work, limitations of your study
+  
+Reference list 
+Harvard (author, date) format. 
+Appendices  
+8.1 R code used for analysis and visualization. 
+8.2 GitHub log output. 
+
+Introduction
+The correlation between tax and mileage of used Toyota cars sold in the UK from year 2010 to 2020 offers a fascinating lens through which to examine consumption behaviour, vehicle valuation, and impact of regulatory measures on the automotive  market. Pay-by-mile road tax is a system that most closely resembles the current tax, because a person buying a tank of fuel pays a certain amount in tax and gets a certain number of miles in exchange. Our calculations for this are as follows Road tax, often determine by a vehicle’s emission’s and age, can significantly influence a buyer decision making process, particularly in an environment where environmental concern are at the forefront. However, in the UK, you cannot conduct a mileage expense if you don’t own a car, regardless whether you used it for business purposes. Meanwhile, mileage serves as a key indicator of a vehicle condition and longevity, factors that are crucial to prospective buyers. The anticipation of the existence of significant impacts resulting from the wide differences on vehicle taxation systems raised the need for further evaluation of the feasibility of taxation systems approximation, as stated in the Terms of Reference. Underlying this approximation exercise is “budget neutrality”, a concept implying that any proposed change of the Registration Taxes must be fully compensated by increases in Annual Circulation Taxes and, eventually, also fuel taxes (Miles(EVP0073)committees.parliament.uk/writtenevidence/22813)
+. This study aims to explore weather there is a correlation between these two variables, shedding light on how taxation policies may affect market trends, consumers preference and the overall lifespan of vehicle in the UK market. By analysing data within this time frame, we will also consider external influence such as economic changes, automobile technology advancement, and public perception shift towards fuel efficiency and sustainability. This inquiry not only provides insights into the Toyota brand within the broader automotive industry but also contributes to understanding within the dynamic interplay between taxation and vehicle mileage. 
+
+Problem statement
+The relationship between road and mileage  of used Toyota cars sold in the UK from the year 2010 to year 2020 remains underexplored. This study aims to investigate whether there is a significant correlation between the amount of tax paid and mileage driven by vehicles, which may provide insight into consumers behaviour, vehicle valuation, Tax implementation in the automotive market. In parallel, consideration has been made of the possible effects of taxation systems on abandoned cars, tax avoidance and level of demand for scrappage schemes. In all these cases no evidence was found about the existence of a clear connection (https://taxation-customs.ec.europa.eu/document/download/924dce3e-ce48-4c70-8561-b30d5623310e_en.
+		Research Motivation
+	The UK automotive market is influenced by the various factors, including taxation policies and vehicle usage. A pay-by-mile road tax system means that people who drive less - and therefore use the roads less and emit less pollution - pay less. Such a system would align incentives and encourage people to drive less, while making it easy for them (as well as businesses) to calculate the true cost of a journey (Miles(EVP0073)committees.parliament.uk/writtenevidence/22813). Understanding the correction between road tax and mileage can help stakeholders, including potential buyers, sellers, and policymakers make informed decision about vehicle purchases, pricing strategies and future taxation frameworks. 
+
+1.2  	Data set Toyota 
+				
+
+	1.3	Is there a correlation between the road tax and the mileage of the used Toyota cars sold in the UK between year 2010 and year 2020?
+
+	1.4	Null Hypothesis and Alternative Hypothesis
+		Null Hypothesis: there is no correlation between the road tax and the mileage of used Toyota cars sold in the UK between year 2010 and 2020.
+
+Alternative Hypothesis: There is a correlation between the road tax and the mileage of used Toyota cars sold in the UK between year 2020 and year 2020
+
+
+		
+
+
+ 
