@@ -77,6 +77,18 @@ The relationship between road and mileage  of used Toyota cars sold in the UK fr
 Alternative Hypothesis: There is a correlation between the road tax and the mileage of used Toyota cars sold in the UK between year 2020 and year 2020
 
 
+
+Conclusions
+6.1 Results explained.
+From the analysis, there is a weak negative correlation between road tax and mileage for used Toyota cars sold in the UK between 2010 and 2020. This indicates that vehicles with higher mileage tend to have slightly lower tax values. The Kendall correlation test illustrated this with a significant p-value of 2.2e-16, prompting us to reject the null hypothesis. While this is statistically significant, the correlation is weak, suggesting that mileage alone does not heavily influence road tax rates.
+
+6.2 Interpretation of the results 
+The results imply that road tax is more likely influenced by factors such as engine size and fuel efficiency(mpg) rather than mileage alone. This finding is essential for both buyers and sellers in the used car market, as it highlights that high-mileage vehicles may offer lower road tax, potentially making them more appealing to budget-conscious buyers. However, given the weak correlation, other factors should be considered when assessing vehicle costs
+
+6.3 Future work, limitations of your study
+Future research should address the impact of outliers, consider recent tax policy changes, and explore additional variables such as fuel efficiency. The limitation of our study is that the dataset only covers vehicles up to 2020, potentially excluding critical recent trends. A broader approach examining engine size and fuel efficiency could yield more comprehensive insights
+
+
 		
 
 
