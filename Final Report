@@ -63,15 +63,13 @@ Introduction
 This study aims to investigate whether there is a correlation between the amount of tax paid and mileage driven by vehicles in the UK, which may provide insight into consumer behaviour, vehicle valuation and Tax implementation. The effects of taxation on abandoned cars, and tax avoidance make it difficult to correlate road tax and mileage. A pay-by-mile road taxation policy would help people who drive less and emit less pollution - pay less. A system like this would encourage people to drive less and make informed decisions about vehicle purchases, pricing strategies, and future taxation frameworks. Miles(EVP0073)committees.parliament.uk/written evidence/22813)
 taxation-customs.ec.europa.eu/document/download/924dce3e-ce48-4c70-8561-b30d5623310e_en
 
-Final Report.docx
 1.2  	Data set Toyota 
 				
 
 	1.3	Is there a correlation between the road tax and the mileage of the used Toyota cars sold in the UK between year 2010 and year 2020?
 
 	1.4	Null Hypothesis and Alternative Hypothesis
-		Null Hypothesis: there is no correlation between the road tax and the mileage of used Toyota cars sold in the UK between year 2010 and 2020.
-
+		Null Hypothesis: there is no correlation between the road tax and the mileage of used Toyota cars sold in the UK between the year 2010 and the year 2020. we reject the null hypothesis because we obtained a small p-value (< 2.2e-16), which is way lower than the standard significance level of 0.05. Kendall's tau value of -0.2780 implies a weak to moderate negative correlation between road tax and mileage
 Alternative Hypothesis: There is a correlation between the road tax and the mileage of used Toyota cars sold in the UK between year 2020 and year 2020
 
 
